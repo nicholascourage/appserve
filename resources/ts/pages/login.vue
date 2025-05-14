@@ -38,8 +38,8 @@ const errors = ref<Record<string, string | undefined>>({
 const refVForm = ref<VForm>()
 
 const credentials = ref({
-  email: 'admin@demo.com',
-  password: 'admin',
+  email: 'nick@email.com',
+  password: 'password',
 })
 
 const rememberMe = ref(false)
