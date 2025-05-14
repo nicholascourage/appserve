@@ -34,7 +34,7 @@ const worker = setupWorker(
   ...handlerPagesDatatable,
   ...handlerAppBarSearch,
   ...handlerAppLogistics,
-  ...handlerAuth,
+  //...handlerAuth,
   ...handlerAppsKanban,
   ...handlerDashboard,
 )
